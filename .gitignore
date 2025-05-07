@@ -1,7 +1,6 @@
 # datapath
 data/
 model/
-notebook.ipynb
 
 # chroma_db
 chroma_db/
@@ -11,3 +10,8 @@ chroma_db/
 *.pyo
 *.pyd
 .*.swp
+.DS_Store
+notebook.ipynb
+
+# all __pycache__ directories
+__pycache__/
