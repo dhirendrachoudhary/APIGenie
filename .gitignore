@@ -1,0 +1,13 @@
+# datapath
+data/
+# model
+model/
+
+# chroma_db
+chroma_db/
+
+# all .pyc files
+*.pyc
+*.pyo
+*.pyd
+.*.swp
